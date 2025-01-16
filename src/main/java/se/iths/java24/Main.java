@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("A new feature");
         System.out.println("A second feature");
+        System.out.println("A third feature");
         System.out.println("Changes in main");
     }
 }
