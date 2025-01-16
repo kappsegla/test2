@@ -8,4 +8,8 @@ public class Main {
         System.out.println("A third feature");
         System.out.println("Changes in main");
     }
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
 }
